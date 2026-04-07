@@ -10,6 +10,6 @@ Requirements:
 Python 3 or higher
 os module (py -m pip install os)
 tkinter module (py -m pip install tkinter)
-PIL module (py -m pip install PIL)
+PIL module (py -m pip install pillow)
 
 enjoy!!
